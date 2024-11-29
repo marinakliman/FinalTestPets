@@ -1,10 +1,9 @@
-
 1  git clone https://github.com/marinakliman/FinalTestPets.git
 2  cd FinalTestPets
 3  git remote -v
 4  cat > Pets.txt
 Dogs Cats Hamsters
-cat > Pack_Animals.txt
+5  cat > Pack_Animals.txt
 Horses Camels Donkeys
 6  cat Pets.txt Pack_Animals.txt > All_Animals.txt
 7  cat All_Animals.txt
